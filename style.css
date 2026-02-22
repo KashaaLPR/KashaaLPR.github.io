@@ -18,7 +18,7 @@ h1 {
     width: 300px;
 }
 #hasil {
-    margin-top: 20px;
+    margin-top: 50px;
     min-height: 50px;
-    transition: 0.3s ease;
+    transition: 0.8s ease;
 }
