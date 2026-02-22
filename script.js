@@ -11,5 +11,5 @@ function game() {
 }
 function pelajari() {
     document.getElementById("hasil").innerHTML =
-        "Saya juga sangat suka bermain game. Reamaja manasih yang tidak suka bermain game? Game Android saya menyukai Mobile Legend, Free Fire, Honor Of Kings. Game PC saya menyukai Valorant. Dan mungkin seterusnya akan lebih banyak lagi game yang saya sukai.";
+        "Banyak yang sedang saya pelajari. Ada Blender, bahasa html, CSS, JS, C++, Phyton, C#, dan banyak lagi. Saya orang yang percaya bahwa ilmu tiada batasnya.";
 }
