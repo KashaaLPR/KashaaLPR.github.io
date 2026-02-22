@@ -1,7 +1,7 @@
 function sapa() {
     alert("Halo! Selamat datang di website saya 😄");
 }
-function Favorit() {
+function favorit() {
     alert("Saya sangat menyukai pelajaran matematika, IPA, desain, dan pemrograman. Di matematika saya sangat menyukainya ketika mengetahui suatu rumus yang menjadi berguna untuk kejadian nyata. Untuk IPA, saya sangat menyukai ketika membahas anatomi semua makhluk hidup. Di desain, saya sangat menyukai ketika di COREL dan Animasi. Untuk pemrograman saya menyukai semuanya.");    
 }
 function game() {
