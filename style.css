@@ -21,6 +21,7 @@ h1 {
     width: 300px;
 }
 #hasil {
+    align: center;
     margin-top: 50px;
     min-height: 50px;
     transition: 2s ease;
