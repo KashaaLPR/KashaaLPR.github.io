@@ -9,6 +9,9 @@ h1 {
     color: #38bdf8;
     text-align: center;
 }
+p {
+    text-align: left;
+}
 
 .card {
     background: #1e293b;
