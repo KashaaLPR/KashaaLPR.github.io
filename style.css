@@ -2,10 +2,9 @@ body {
     font-family: Arial, sans-serif;
     background-image: url("Screenshot 2026-03-18 193418.png");
     background-size: contain;
-    background-repeat: no repead;
+    background-repeat: no-repead;
     background-position: center;
     background-attachmen: fixed;
-    background-
     color: white;
     padding: 50px;
     text-align: center;
