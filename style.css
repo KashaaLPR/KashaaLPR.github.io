@@ -1,9 +1,9 @@
 body {
     font-family: Arial, sans-serif;
     background-image: url("https://wallpapers.com/images/hd/art-landscape-breath-of-the-wild-i0daobv36vybuu6b.webp")no-repeat center;
-    background-size: contain;
+    background-size: cover;
     background-color: black;
-    padding: 50px
+    padding: 50px;
     text-align: center;
 }
 
