@@ -4,7 +4,7 @@ body {
     background-size: cover;
     background-repeat: no-repead;
     background-position: center;
-    background-attachmen: fixed;
+    background-attachmen: scroll;
     color: white;
     padding: 50px;
     text-align: center;
